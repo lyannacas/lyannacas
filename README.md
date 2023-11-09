@@ -4,10 +4,10 @@
   Anna C.
 </h1>
 
-<p align="justify">Junior Front-end Developer from Brazil, graduating at System Analysis and Development. Aspiring Data Scientist.
+<p align="justify">Junior Front-end Developer from Brazil, graduating at System Analysis and Development.
 <br>
 <br>
- I enjoy exploring many possibilities, but I keep my feet on the ground. Some areas within IT that peak my interest, besides data science, are cyber security and game development. I also like to research whatever topic sparks my curiosity. My hobbies are learning, music and puzzles.</p>
+ I enjoy exploring many possibilities, but I keep my feet on the ground. Some areas within IT that peak my interest are data science, cyber security and game development. I also like to research whatever topic sparks my curiosity. My hobbies are learning, music and puzzles.</p>
  
 <h3 align="left">You can also find me at</h3>
 
