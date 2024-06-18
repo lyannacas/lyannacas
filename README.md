@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/lyannacas/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=FFF&color:FFF)](https://codepen.io/lyannacas)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FFF&color:FFF)](https://www.youtube.com/@lyannacas)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FFF&color:FFF)](https://www.youtube.com/@mentoori_by_juhyo)
 
 <h3 align="left">GitHub Stats</h3>
 
