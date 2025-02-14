@@ -1,5 +1,3 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/research-paper-concept-illustration_114360-8312.jpg?w=740&t=st=1699456661~exp=1699457261~hmac=dd7126fdbcdb354b094d0eac3906f6224f98d7322ac0da966cb7dcb1b401d0f6">
-
 <h1>
   Anna C.
 </h1>
