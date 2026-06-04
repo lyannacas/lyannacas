@@ -2,7 +2,7 @@
   Anna C.
 </h1>
 
-<p align="justify"> System Analyst and Developer.
+<p align="justify"> Systems Analyst and Developer.
 <br>
 <br>
  I enjoy exploring many possibilities, but I keep my feet on the ground.</p>
